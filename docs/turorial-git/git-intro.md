@@ -1,0 +1,43 @@
+---
+sidebar_position: 1
+---
+
+# Git version Control
+
+# What is a Version Control System?
+The Git version control system, as the name suggests, is a system that records all the modifications made to a file or set of data so that a specific version may be called up later if needed. The system makes sure that all the team members are working on the file’s latest version, and everyone can work simultaneously on the same project.
+
+# What is Git?
+Git is a version control system used for tracking changes in computer files, making it a top-rated utility for programmers world-wide. Git can handle projects of any size.
+
+Git is used to coordinate the workflow among project team members and track their progress over time. It also benefits both programmers and non-technical users by keeping track of their project files. Git allows multiple users to work together without disrupting each other’s work. 
+
+Now that you've been introduced to Git, you have the foundation needed to understand what is GitHub better.
+
+## So How Do You Get Started With Git ?
+It’s easy to get things going with GitHub. For starters, click onto the GitHub site and create an account. Then, consider installing Git on your system, especially if you plan on using your local computer. Then, go to your terminal and make yourself known to Git by setting up your user name in every repository. Use this command:
+
+git config --global user.name "<your_name_here>"
+
+Make sure the “your name here” parameter is your own name. Pick any name you’d like.
+
+Next, share your email address with Git. It should be the same address you entered when you joined GitHub.
+
+git config --global user.email "<your_email@email.com>"
+
+You’re now ready to use Git!
+
+
+
+---
+slug: git
+title: Git version controls!
+authors:
+  - name: ADAMU M. MUHAMMAD
+    title: Lead open source learners
+    url: https://github.com/AdamsGeeky
+    image_url: https://github.com/AdamsGeeky.png
+tags: [git]
+---
+
+```
