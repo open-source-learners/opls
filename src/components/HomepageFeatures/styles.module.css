@@ -1,11 +1,27 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 3rem;
   width: 100%;
+}
+
+.feature {
+  text-align: center;
+  margin-top: 30px;
+}
+
+@media (max-width: 996px) {
+  .feature:before {
+    content: '—';
+    color: #16d69d;
+  }
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+
+.featuresRow {
+  justify-content: center;
 }
