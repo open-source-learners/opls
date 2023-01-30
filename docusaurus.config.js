@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'open source learners',
   tagline: 'welcoming inclusive community of tech enthusiasts, Advocate, expert, and learners.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://open-source-learners.opls.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'open-source-learners', // Usually your GitHub org/user name.
-  projectName: '/', // Usually your repo name.
+  projectName: 'opls', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
