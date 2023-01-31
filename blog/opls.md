@@ -73,3 +73,18 @@ There are several ways. First of all, the big players like Firefox or Android ha
 Another similar event is Google Summer of Code. You can check out a list of projects from the past. Maybe one will inspire you enough to make a contribution! Oh, and then there’s an Awesome First PR Opportunities list!
 
 If you want to sustain-ably contribute to Open Source, find something that you use regularly. This way your contributions will also benefit yourself. This is by far the best way to ensure quality work.
+
+
+<div class="avatar avatar--vertical">
+  <img
+    class="avatar__photo avatar__photo--xl"
+    src="https://avatars1.githubusercontent.com/u/977348?s=460&v=4" />
+  <div class="avatar__intro">
+    <div class="avatar__name">Jordan Walke</div>
+    <small class="avatar__subtitle">
+      Maker of things: ReactJS. Working on:
+      <a href="https://twitter.com/reasonml">@reasonml</a>. At: Facebook
+      Engineering.
+    </small>
+  </div>
+</div>
